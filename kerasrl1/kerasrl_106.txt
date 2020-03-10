@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/tanuk1647/back-up-the-configuration-files', 'language': 'Python', 'description': None, 'readme': 'no readme', 'contents': "['.gitignore', 'anaconda', 'ipython', 'jupyter', 'latex', 'matplotlib', 'pipenv']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
