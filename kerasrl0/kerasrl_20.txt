@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/alexeyrodriguez/ds-bowl-2018', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# ds-bowl-2018', 'contents': "['README.md', 'setup', 'src']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
