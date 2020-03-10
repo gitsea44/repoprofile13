@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/0x384c0/Experiments-RL', 'language': 'Python', 'description': 'Experiments with reinforcement learning and neural networks', 'readme': 'no readme', 'contents': "['.gitignore', '.gitmodules', 'LICENSE', 'alpha-zero-general', 'keras-rl', 'simple_Q_learn']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
