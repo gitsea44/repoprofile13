@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/cgarciae/tensorrl', 'language': 'Python', 'description': None, 'readme': '# tensorrl', 'contents': "['.gitignore', 'LICENSE', 'README.md', 'examples', 'setup.py', 'tensorrl']", 'stars': 1, 'watchers': 1, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
