@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/c-fos/ML_experiments', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# ML_experiments', 'contents': "['.gitignore', 'LICENSE', 'README.md', 'rl_aquarium']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
