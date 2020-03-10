@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/Ronnasayd/IA_and_machine_learning', 'language': 'Jupyter Notebook', 'description': None, 'readme': 'no readme', 'contents': "['.gitignore', '.vscode', 'reiforcement_learning']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
