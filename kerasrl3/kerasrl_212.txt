@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/minimalgeek/reinforcement', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# Steps\n\n* `pip install pipenv`\n* `pipenv install`\n* `pipenv shell`\n* `jupyter notebook`\n', 'contents': "['Pipfile', 'Pipfile.lock', 'Learning', 'README.md']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
