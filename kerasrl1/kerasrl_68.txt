@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/dimitrijejankov/deep-learning-project', 'language': 'Python', 'description': None, 'readme': 'no readme', 'contents': "['.gitignore', 'config-feedforward-leo', 'keras_dq', 'neat_leo.py', 'requirements.txt', 'retro', 'setup-tools.sh', 'torch_ppo', 'trained-models']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
