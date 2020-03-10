@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/SoyGema/starcraftII_machine_learning', 'language': 'HTML', 'description': 'Web deployment', 'readme': 'no readme', 'contents': "['bower_components', 'index.html', 'mini_games.zip', 'pysc2_codelab_material.zip', 'pysc2_codelab_material', 'pysc2_images', 'service-worker.js']", 'stars': 2, 'watchers': 2, 'forks': 1, 'deprepos': 0, 'deppacks': 0}
