@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/cair/fire', 'language': 'Python', 'description': None, 'readme': 'no readme', 'contents': "['algorithms', 'environment.py', 'final_complete_system.py', 'loss.py', 'main.py', 'plot.py', 'requirements.txt', 'runner.py', 'scenario.py', 'util.py', 'visualize.py']", 'stars': 1, 'watchers': 1, 'forks': 1, 'deprepos': 0, 'deppacks': 0}
