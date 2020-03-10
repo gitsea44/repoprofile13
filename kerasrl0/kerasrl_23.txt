@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/mokemokechicken/openai', 'language': 'Python', 'description': None, 'readme': 'no readme', 'contents': "['.gitignore', '.gitmodules', 'github', 'requirements.txt', 'src']", 'stars': 1, 'watchers': 1, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
