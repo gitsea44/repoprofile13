@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/ShubraChowdhury/Investment_Finance', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# IV', 'contents': "['QLearning_Trading', 'README.md', 'asset_nature', 'derivatives', 'futures', 'hedge', 'rl-portfolio-management-master', 'rl_trading', 'shortRate']", 'stars': 2, 'watchers': 2, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
