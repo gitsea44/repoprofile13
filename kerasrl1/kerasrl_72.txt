@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/yukku/deep-q-learning', 'language': 'Python', 'description': None, 'readme': '# deep-q-learning', 'contents': "['.gitignore', 'README.md', 'datasets', 'environment.py', 'infer.py', 'requirements.txt', 'train.py', 'utils.py']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
