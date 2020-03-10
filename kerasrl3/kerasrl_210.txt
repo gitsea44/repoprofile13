@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/2er0/achtung-kurve', 'language': 'Python', 'description': None, 'readme': '# achtung-kurve', 'contents': "['.gitignore', 'LICENSE', 'README.md', 'achtungkurve', 'doc', 'setup.py']", 'stars': 2, 'watchers': 2, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
