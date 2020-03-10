@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/abellimz/Gym-Acrobot', 'language': 'Python', 'description': 'Acrobot training for OpenAI Gym', 'readme': '# Gym-Acrobot\nAcrobot training for OpenAI Gym\n', 'contents': "['.gitignore', 'README.md', 'requirements.txt', 'src']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
