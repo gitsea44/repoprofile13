@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/t0nberryking/Heroku', 'language': 'Python', 'description': 'Heroku files', 'readme': '# Heroku\nHeroku files\n', 'contents': "['README.md', 'alphazero4', 'alphazero4_test.ipynb']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
