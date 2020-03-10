@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/flipper83/starcraft-codelab', 'language': 'HTML', 'description': 'the web codelab', 'readme': 'no readme', 'contents': "['bower_components', 'index.html', 'mini_games.zip', 'pysc2_codelab_material.zip', 'pysc2_codelab_material', 'pysc2_images', 'service-worker.js']", 'stars': 1, 'watchers': 1, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
