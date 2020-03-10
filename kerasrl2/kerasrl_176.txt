@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/atobe/calc_repo', 'language': 'Python', 'description': None, 'readme': '# calc_repo', 'contents': "['.circleci', '.gitignore', 'README.md', 'calculator.py', 'commands.txt', 'requirements.txt', 'test_calculator.py']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
