@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/CiaranWelsh/TGCA', 'language': 'Jupyter Notebook', 'description': None, 'readme': 'no readme', 'contents': "['.gitignore', '__init__.py', 'feature_selection_slurm.sh', 'plot_all_pca.sh', 'requirements.txt', 'tgca']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
