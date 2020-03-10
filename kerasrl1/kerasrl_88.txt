@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/yosugawara85/openai-gym-study', 'language': 'Ruby', 'description': None, 'readme': 'no readme', 'contents': "['vagrant']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
