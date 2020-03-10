@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/meganhsu/TM_ML_Malware', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# TM_ML_Malware', 'contents': "['README.md', 'homework_03_lgb_Copy1_LGBMClassifier(gbdt)0_314.ipynb', 'tu-etp-ad1062-master']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
