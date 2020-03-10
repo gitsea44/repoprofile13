@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/captain-proton/aise', 'language': 'Jupyter Notebook', 'description': 'Study of "Angewandte Informatik - Systems Engineering" in Duisburg-Essen', 'readme': 'no readme', 'contents': "['.gitignore', 'LICENSE', 'concurrency', 'documentation', 'dox', 'hci', 'isv', 'peco']", 'stars': 1, 'watchers': 1, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
