@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/benletchford/rl-tic-tac-toe', 'language': 'Python', 'description': 'Simple web-based Tic-Tac-Toe reinforcement learning implementation using Keras - [50% complete]', 'readme': 'no readme', 'contents': "['.gitignore', 'bin', 'requirements.txt', 'rltictactoe', 'tests']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
