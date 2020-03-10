@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/minimalgeek/DeepLearning', 'language': 'Jupyter Notebook', 'description': None, 'readme': 'no readme', 'contents': "['.gitattributes', '.gitignore', 'HandsOnML', 'ML_templates', 'Stock']", 'stars': 6, 'watchers': 6, 'forks': 8, 'deprepos': 'zero', 'deppacks': 'zero'}
