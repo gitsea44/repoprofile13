@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/adrien-le-franc/xEMS', 'language': 'Python', 'description': None, 'readme': '# xEMS\n', 'contents': "['.gitignore', 'README.md', 'all_results', 'data', 'entrypoint.sh', 'output', 'requirements.txt', 'run.sh', 'simulate']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
