@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/yongbowin/practice', 'language': 'Python', 'description': 'nlp, tensorflow, keras, pytorch, deep-learning, machine-learning', 'readme': '# practice', 'contents': "['.idea', 'README.md', 'deep_learning', 'func', 'keras_practice', 'machine_learning', 'model_eval', 'sklearn']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
