@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/ialothma/trainsvsdeers', 'language': 'Python', 'description': None, 'readme': '# DeersVsTrain\nJust the code!\n', 'contents': "['.gitattributes', 'README.md', 'deer_train.py', 'requirements.txt', 'script.py', 'test.txt']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
