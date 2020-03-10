@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/nao0811ta/rtrl_trader', 'language': 'Python', 'description': None, 'readme': '# rtrl_trader\n', 'contents': "['README.md', 'agent.py', 'exchange', 'gym_trading', 'requirements.txt', 'test_gym.py']", 'stars': 1, 'watchers': 1, 'forks': 1, 'deprepos': 0, 'deppacks': 0}
