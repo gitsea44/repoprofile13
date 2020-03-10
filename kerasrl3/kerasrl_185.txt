@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/ph2017001/ehrc_rx_decoder', 'language': 'Python', 'description': 'Repo for EHRC Rx Decoder', 'readme': 'no readme', 'contents': "['EHRC_Master.xlsx', 'EHRC_Rx_Processor.py', 'requirements.txt', 'serve.py', 'static', 'templates']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
