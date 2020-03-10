@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/NeuralLourdes/hackatron', 'language': 'Python', 'description': None, 'readme': '# hackathon', 'contents': "['.gitignore', 'ANTS', 'LICENSE', 'README.md', 'beste', 'beste_ki', 'evaluate_ai.py', 'neat', 'präse', 'tron']", 'stars': 2, 'watchers': 2, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
