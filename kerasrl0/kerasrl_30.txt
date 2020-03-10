@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/pinguino-lim/Text_classification_jupyterlab', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# Text_classification_jupyterlab', 'contents': "['LICENSE', 'README.md', 'data', 'docker-compose.yml', 'jupyterlab']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
