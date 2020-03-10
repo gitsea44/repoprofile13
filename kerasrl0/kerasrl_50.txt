@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/rouchenzi/rl', 'language': 'Jupyter Notebook', 'description': None, 'readme': '# rl', 'contents': "['README.md', 'Untitled.ipynb', 'convert_data.py', 'requirements.txt', 'setup.py']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
