@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/bharris47/sonic-rl', 'language': 'Python', 'description': "Reinforcement learning solutions for OpenAI's Retro Contest.", 'readme': 'no readme', 'contents': "['.gitignore', 'LICENSE', 'notebooks', 'requirements.txt', 'sonic-train.csv', 'sonic-validation.csv', 'sonicrl']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
