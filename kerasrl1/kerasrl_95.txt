@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/stevewongv/game-craft', 'language': 'Python', 'description': 'game-craft test code', 'readme': '# game-craft\ngame-craft test code\n', 'contents': "['.gitignore', 'README.md', 'examples', 'gym_starcraft', 'setup.py']", 'stars': 0, 'watchers': 0, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
