@@ -1,0 +1,1 @@
+{'dependent': 'kerasrl', 'repo': '/mrlsdvd/flight-price-prediction', 'language': 'Jupyter Notebook', 'description': 'Predicting flight prices using reinforcement learning', 'readme': 'no readme', 'contents': "['notebooks', 'requirements.txt', 'src']", 'stars': 2, 'watchers': 2, 'forks': 0, 'deprepos': 0, 'deppacks': 0}
